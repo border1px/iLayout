@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<img src='http://i2.tiimg.com/643174/ab202ce59c8a8a77.png' align='center' style=' width:300px;'/>
+<img src='http://i2.tiimg.com/643174/5c3fe2896b47a6b2.png' align='center' style=' '/>
 </p>
 
 
