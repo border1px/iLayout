@@ -1,0 +1,1 @@
+export const SELECT_WIDGET = 'SELECT_WIDGET'
