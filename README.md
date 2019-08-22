@@ -9,9 +9,7 @@
 </p>
 
 
-## Getting Started
-  * [Document](https://border-1px.github.io/border-ui/docs/FAQ/introduction.html)
-  * [Demo](https://border-1px.github.io/border-ui/)
-## borderUI Development
+## About
+This is a mobile application designer, designed to help developers quickly build page layout, easy to transfer more energy to business logic.
 
 
