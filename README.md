@@ -1,29 +1,78 @@
-# iLayout
 
-## Project setup
-```
-yarn install
-```
+<h1 align="center">iLayout</h1>
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+<p align="center">Mobile Application Designer</p>
 
-### Compiles and minifies for production
-```
-yarn run build
-```
 
-### Run your tests
-```
-yarn run test
-```
+<p align="center">
+<img src='http://i2.tiimg.com/643174/ab202ce59c8a8a77.png' align='center' style=' width:300px;'/>
+</p>
 
-### Lints and fixes files
+
+## Getting Started
+  * [Document](https://border-1px.github.io/border-ui/docs/FAQ/introduction.html)
+  * [Demo](https://border-1px.github.io/border-ui/)
+## borderUI Development
+
+borderUI base on `vue-cli@3` to build a development and production versions.
+
+Install all dependencies, in repo's root:
+
 ```
-yarn run lint
+$ npm install
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Development Builds
+
+The following npm scripts are available to create development builds:
+
+* `serve` - build development versions（Start by default on http://localhost:8080）
+
+## Production builds
+
+To build production versions the following npm scripts are available:
+
+* `build` - build production versions
+
+Compiled results will be available in `dist/` folder.
+
+## Document Development
+
+To run Document with development environment use the following npm scripts(based on vuepress):
+
+* `docs:dev` - build development versions and run local server. 
+
+To Run Document with production builds (already compiled `/docs/dist/` will be used), use the following npm scripts:
+
+* `docs:build` - build Kitchen Sinks with production versions
+
+## Source Code
+
+Whole source code is located under `/src/` folder.
+
+* `/src` - Source Code Root Directory
+* `/src/components` - Source code for each component
+* `/src/style` - Component Style Files and iconfont
+* `/src/views` - One-to-one correspondence with the component folder to demonstrate the use of individual components
+* `/docs` - Docume files
+
+
+## Contributing
+
+Before you open an issue please review the [contributing](https://github.com/) guideline.
+
+**All changes should be commited to `src/` files only!**.
+
+borderUI uses Stylus compilations, and ES modules JS files.
+
+The project uses [.editorconfig](http://editorconfig.org/) and [ESLint](https://eslint.org/) to define and lint the coding style of each file. We recommend that you install the Editor Config and ESLint extension for your preferred IDE.
+
+
+## Docs
+
+Documentation available at https://border-1px.github.io/border-ui/docs/FAQ/introduction.html
+
+## Demos
+
+Demo available at https://border-1px.github.io/border-ui/demo/
+
