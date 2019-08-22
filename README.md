@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<img src='http://i1.fuimg.com/643174/d25e5d0044881b32.png' align='center' style=' '/>
+<img src='http://i2.tiimg.com/643174/d67ffa7820ae83c6.png' align='center' style=' '/>
 </p>
 
 
