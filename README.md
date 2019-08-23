@@ -18,7 +18,7 @@ The next plan is
 2. Integrating borderUI to drag and visualize component configuration
 
 ## Getting Started
-  * [Demo](http://i1.fuimg.com/643174/c0ce59de474a9661.gif)
+  * **[Demo]**(http://i1.fuimg.com/643174/c0ce59de474a9661.gif)
 ## Development
 
 base on `vue-cli@3` to build a development and production versions.
