@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<img src='http://i2.tiimg.com/643174/d67ffa7820ae83c6.png' align='center' style=' '/><br/>
+<img src='https://github.com/border1px/iLayout/blob/master/preview.png?raw=true' align='center' style='width:100%'/><br/>
 Pictures are loading...
 </p>
 
